@@ -1,0 +1,17 @@
+{
+  "name": "barner",
+  "version": "1.0.0",
+  "description": "Barner_Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss/:src/css"
+  },
+  "keywords": [
+    "Editando_Website"
+  ],
+  "author": "Renan Rosales",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}
